@@ -1,6 +1,7 @@
 🌐 What are Microservices?
 ################################
-Microservices is an architecture style where an application is broken down into small, independent services that communicate over a network (usually HTTP). Each service focuses on a single business function, is independently deployable, and can be developed, scaled, and maintained separately.
+Microservices is an architecture style where an application is broken down into small, independent services that communicate over a network (usually HTTP). 
+Each service focuses on a single business function, is independently deployable, and can be developed, scaled, and maintained separately.
 
 
 🚀 Why Use Spring Boot for Microservices?
@@ -56,7 +57,8 @@ Don't try to fetch registry data (because it's the registry).                |
 🛠️ What is Spring Boot Admin Server?
 #############################################
 
-Spring Boot Admin Server is a web-based UI dashboard that lets you monitor and manage Spring Boot applications in real time. It provides insight into application health, metrics, environment, thread dumps, and more — all using Spring Boot Actuator endpoints under the hood.
+Spring Boot Admin Server is a web-based UI dashboard that lets you monitor and manage Spring Boot applications in real time. 
+It provides insight into application health, metrics, environment, thread dumps, and more — all using Spring Boot Actuator endpoints under the hood.
 
 ✅ Key Features of Spring Boot Admin:
 -> Real-time health status of services
@@ -119,7 +121,8 @@ spring.boot.admin.ui.title=Spring Boot Admin Server  # Custom title
 ##############################
 📡 What is Zipkin Server?
 ###############################
-Zipkin Server is a distributed tracing system that helps you trace and visualize the flow of requests across multiple microservices. It shows you how long each service call takes and helps diagnose latency issues or failures in a microservices architecture.
+Zipkin Server is a distributed tracing system that helps you trace and visualize the flow of requests across multiple microservices. 
+It shows you how long each service call takes and helps diagnose latency issues or failures in a microservices architecture.
 
 ✅ Key Features of Zipkin:
 ----------------------------
